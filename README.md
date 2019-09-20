@@ -28,16 +28,16 @@
 - No celular vai existir um botão para pular, desviar-se dos obstáculos e coletar o lixo. 
 
 # Diagrama de Navegação:
-![Diagrama de navegação](https://user-images.githubusercontent.com/53848638/64136723-1c190380-cdca-11e9-9354-1df03ddabbf6.JPG)
+![Novodiagrama](https://user-images.githubusercontent.com/53848638/65294284-89e85d80-db34-11e9-9697-6244567d830c.jpg)
 
 # Regras do Jogo com Sistema de Pontuação:
-- O jogador deverá coletar determinada quantidade de lixo em um tempo estipulado. 
+- O jogador deverá coletar determinada quantidade de lixo para ganhar pontos. 
 
 # Sistema de Vidas:
 - Aumentará life de acordo com o tipo de lixo coletado. Os obstáculos farão com que diminua life. 
 
 # Sistemas de Pontos:
-- De acordo com o tipo de lixo coletado, o jogador ganha pontos. 
+- De acordo com o tipo de lixo coletado, banana, garrafa  o jogador ganha pontos. 
 
 # Como o Jogo Acaba:
-- Se o jogador não coletar a quantidade de lixo estipulada em cada fase, o jogo será encerrado (game over).
+- Se o jogador colidir com um guarda-chuva, o jogo será encerrado (game over).
