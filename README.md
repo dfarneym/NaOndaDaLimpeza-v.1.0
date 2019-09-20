@@ -28,7 +28,7 @@
 - No celular vai existir um botão para pular, desviar-se dos obstáculos e coletar o lixo. 
 
 # Diagrama de Navegação:
-![Novodiagrama](https://user-images.githubusercontent.com/53848638/65294284-89e85d80-db34-11e9-9697-6244567d830c.jpg)
+![diagrama](https://user-images.githubusercontent.com/53848638/65295498-eac56500-db37-11e9-8581-ce147886b927.jpg)
 
 # Regras do Jogo com Sistema de Pontuação:
 - O jogador deverá coletar determinada quantidade de lixo para ganhar pontos. 
