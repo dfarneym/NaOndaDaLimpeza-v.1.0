@@ -22,7 +22,7 @@
 - São os obstaculos como o guarda-sol e a cadeira de praia.
 
 # Iteração do Jogador:
-- O jogador vai interagir direto com o personagem principal quando ele coletar o lixo que vai estar espalhado pela praia, ganhando assim pontosx e life.
+- O jogador vai interagir direto com o personagem principal quando ele coletar o lixo que vai estar espalhado pela praia, ganhando assim pontos e life.
 
 # Controles:
 - No celular vai existir um botão para pular, desviar-se dos obstáculos e coletar o lixo. 
@@ -37,7 +37,7 @@
 - Aumentará life de acordo com o tipo de lixo coletado. Os obstáculos farão com que diminua life. 
 
 # Sistemas de Pontos:
-- De acordo com o tipo de lixo coletado, banana, garrafa  o jogador ganha pontos. 
+- De acordo com o tipo de lixo coletado, o jogador ganhará pontos. 
 
 # Como o Jogo Acaba:
-- Se o jogador colidir com um guarda-chuva, o jogo será encerrado (game over).
+- Se o jogador colidir com o inimigo, o jogo será encerrado (game over).
